@@ -13,7 +13,7 @@ The Resource Studio app is used to quickly create and manage an inventory of boo
 * **Attach metadata to resources** to store additional information relevant to resources as properties.
 * **Analyze resource utilization** metrics for resource pools, aiding in optimizing resource inventory management.
 
-![screenshot](~/user-guide/Standard_Apps/MediaOps/images/rs_overview.png)
+![screenshot](~/user-guide/images/mediaops_rs_overview.png)
 
 ## Resources
 

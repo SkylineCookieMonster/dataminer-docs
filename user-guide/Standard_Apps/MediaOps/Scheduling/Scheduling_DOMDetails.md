@@ -18,7 +18,7 @@ The module *(slc)workflow* contains the DOM definitions for a **Job**.
 
 A Job is the main way a user can add a reservation for a resource or group of resources. It has a variety of sections that include basic information about when the Job starts and stops, who the Job is for, what resources are booked, etc.
 
-![The job definition of the workflow module](~/user-guide/Standard_Apps/MediaOps/images/s_workflow_job.png).
+![The job definition of the workflow module](~/user-guide/images/mediaops_s_workflow_job.png).
 
 ### Workflows DOM definition
 

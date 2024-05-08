@@ -46,11 +46,11 @@ Contracts play a crucial role in managing financial aspects within our applicati
 
 The Contract's Overview page is a great starting point to know what is going on. In this page, you can find graphs and charts breaking down contracts by their Billing Type, Validity and States. Additionally, you can see the 5 most recent created contracts including some of their details.
 
-<img src="~/user-guide/Standard_Apps/MediaOps/images/cb_overview.png">
+<img src="~/user-guide/images/mediaops_cb_overview.png">
 
 The main way to manage your contracts is done in the "List" page. It can be accessed from the Contract's Overview by clickin on the "List" button on the top left corner.
 
-<img src="~/user-guide/Standard_Apps/MediaOps/images/cb_contracts-list.png">
+<img src="~/user-guide/images/mediaops_cb_contracts-list.png">
 
 The table list all existing contracts and some of their most important details like Name, State, Billing Type, Uplift, Discount and Validity Period.
 It is also possible to visualize further contract details like Default Ratecards, Speed Order or Cancellation fees and Ratecards attached to specific Workflows, Resource Pools and Resources.

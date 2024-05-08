@@ -4,7 +4,7 @@ uid: workflows
 
 # Workflows
 
-MediaOps is shipped with a [workflow designer](xref:workflow_designer), which allows operators to describe how signals (virtual signal groups) are processed from input to output using a sequence of nodes (resources or resource pools).
+MediaOps is shipped with a [workflow designer](xref:workflow_designer_app), which allows operators to describe how signals (virtual signal groups) are processed from input to output using a sequence of nodes (resources or resource pools).
 
 Execution of these workflows can be used both for ad-hoc connections and scheduled connections.
 
@@ -29,17 +29,17 @@ In that case, extra configuration is required to make sure the correct workflow 
 
 A type can be assigned to every virtual signal group.
 
-![Virtual signal group type](~/user-guide/Standard_Apps/MediaOps/images/vsg_type.png)
+![Virtual signal group type](~/user-guide/images/mediaops_vsg_type.png)
 
 This allows to configure what workflow needs to be executed when a source of a specific type needs to be connected to a destination of a specific type.
 
-![Workflow configuration](~/user-guide/Standard_Apps/MediaOps/images/wf_configuration.png)
+![Workflow configuration](~/user-guide/images/mediaops_wf_configuration.png)
 
 ### Scheduled
 
 When creating jobs, you can optionally select to base it on a workflow.
 
-![Job with workflow](~/user-guide/Standard_Apps/MediaOps/images/s_job_create.png)
+![Job with workflow](~/user-guide/images/mediaops_s_job_create.png)
 
 In this case, the selected workflow will be executed at job start.
 
@@ -47,7 +47,7 @@ In this case, the selected workflow will be executed at job start.
 
 Each workflow should have a configured *workflow execution script*. This is the script that will be started when a workflow is executed.
 
-![Workflow execution script](~/user-guide/Standard_Apps/MediaOps/images/wf_execution_script.png)
+![Workflow execution script](~/user-guide/images/mediaops_wf_execution_script.png)
 
 When a new workflow is added using the [workflow designer](xref:workflow_designer_app), a [default script](#mediaopsworkflowdefault) will automatically be configured.
 
@@ -80,7 +80,7 @@ When adding nodes in a workflow, a [default script](#mediaopsworkflowconnectiond
 
 If you want to deviate from the default connection execution behavior, you can configure a different script that should be used to execute the actual connection.
 
-![Connection execution script](~/user-guide/Standard_Apps/MediaOps/images/wf_connection_execution_script.png)
+![Connection execution script](~/user-guide/images/mediaops_wf_connection_execution_script.png)
 
 #### MediaOps.Workflow.Connection.Default
 

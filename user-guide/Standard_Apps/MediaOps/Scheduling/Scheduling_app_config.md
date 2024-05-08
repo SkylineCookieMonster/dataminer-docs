@@ -14,7 +14,7 @@ The Scheduling App Config page allows you to configure App level preferences use
 
 The Scheduling app can auto-generate a user friendly and custom Job IDs based on customizable rules. The custom Job ID is comprised of two parts, a string prefix following by a sequential numeric value.
 <p>
-<img src="~/user-guide/Standard_Apps/MediaOps/images/s_job_ID_config.png" width="810" alt="Job ID Configuration Settings">
+<img src="~/user-guide/images/mediaops_s_job_ID_config.png" width="810" alt="Job ID Configuration Settings">
 
 To configure a custom Job ID:
 

@@ -8,7 +8,7 @@ uid: scheduling_job_timeline
 
 The Job Timeline allows you to see all jobs regardless which Resources are assigned which provides a visual overview of all of the work that needs to be done. It also provides a convenient place to start a Draft Job without first selecting a resource.
 <p>
-<img src="~/user-guide/Standard_Apps/MediaOps/images/s_job_timeline.png" width="1267" alt="Job Timeline">
+<img src="~/user-guide/images/mediaops_s_job_timeline.png" width="1267" alt="Job Timeline">
 
 The Job Timeline is divided into several different sections. They include:
 
@@ -28,13 +28,13 @@ The quick pick selectors shown in #2 above allow you to quickly scope the timeli
 - **Right Click and Drag**: you can also zoom the timeline by right clicking and dragging over the time range you wish to zoom in on. To zoom back out, use the CTRL+Scroll Wheel or the Quick Pick time selectors.
 
 <p>
-<img style="margin-left: 65px;" src="~/user-guide/Standard_Apps/MediaOps/images/s_job_timeline_timerange_select.png" width="1267" alt="Selecting a time range on the Job Timeline">
+<img style="margin-left: 65px;" src="~/user-guide/images/mediaops_s_job_timeline_timerange_select.png" width="1267" alt="Selecting a time range on the Job Timeline">
 
 ## Interacting with a Job
 
 In the Job Timeline section of the user manual, Jobs are depicted as rectangles extending from the Job Start Time to the Job End Time. Moreover, each Job features essential displays and actions, enabling seamless interaction directly from the timeline.
 <p>
-<img style="margin-left: 65px;" src="~/user-guide/Standard_Apps/MediaOps/images/s_job_timeline_job_details.png" width="1267" alt="Job Details">
+<img style="margin-left: 65px;" src="~/user-guide/images/mediaops_s_job_timeline_job_details.png" width="1267" alt="Job Details">
 
 A few features to note:
 
@@ -47,4 +47,4 @@ A few features to note:
 
 Draft Jobs represent a distinctive state that can exclusively be initiated from the Job Timeline. These Jobs are visually distinguishable on the Timelines due to their white background, as illustrated below. When a Job is in the Draft state, the resources are not yet reserved. Consequently, the availability of the resource(s) is *not* assured until the Job transitions to a Tentative state.
 <p>
-<img style="margin-left: 65px;" src="~/user-guide/Standard_Apps/MediaOps/images/s_job_timeline_job_draft_background.png" width="1267" alt="Draft Jobs vs Jobs with Reserved Resources">
+<img style="margin-left: 65px;" src="~/user-guide/images/mediaops_s_job_timeline_job_draft_background.png" width="1267" alt="Draft Jobs vs Jobs with Reserved Resources">

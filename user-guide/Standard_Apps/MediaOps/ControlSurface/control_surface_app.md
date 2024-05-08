@@ -4,7 +4,7 @@ uid: control_surface_app
 
 # Control Surface
 
-The dataminer.MediaOps control surfaces allow operators to perform their day-to-day activities, such as setting up connections between sources and destinations, doing configuration parameter control on devices and view monitoring information coming from the devices. The [MediaOps installation package](xref:mediaops_package) comes with an out-of-the-box example control surface with the following functionality:
+The dataminer.MediaOps control surfaces allow operators to perform their day-to-day activities, such as setting up connections between sources and destinations, doing configuration parameter control on devices and view monitoring information coming from the devices. The MediaOps installation package comes with an out-of-the-box example control surface with the following functionality:
 
 * Connecting a source to a destination.
 * Disconnecting a destination.
@@ -12,7 +12,7 @@ The dataminer.MediaOps control surfaces allow operators to perform their day-to-
 * Smart filtering: control surface eliminates invalid connection attempts by filtering out sources & destinations that can't be connected.
 * Customization made easy: users can use the sample control surface as-is, but they are encouraged to take it as a starting point and further customize it or even build their own control surface from scratch.
 
-![screenshot](~/user-guide/Standard_Apps/MediaOps/images/cs_overview.png)
+![screenshot](~/user-guide/images/mediaops_cs_overview.png)
 
 ## Connecting a source to a destination
 

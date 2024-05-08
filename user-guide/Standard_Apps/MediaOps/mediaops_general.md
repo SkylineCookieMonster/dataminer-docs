@@ -10,7 +10,7 @@ Below is an overview of the out-of-the-box DataMiner applications that come with
 
 ## Virtual Signal Groups
 
-![Virtual Signal Groups app icon](~/user-guide/Standard_Apps/MediaOps/images/vsg_dm-logo.png)
+![Virtual Signal Groups app icon](~/user-guide/images/mediaops_vsg_dm-logo.png)
 
 The Virtual Signal Groups app is used to manage the database of all sources and destinations in the media network. It allows to define video, audio and data signals using a variety technology, including IP ST-2110, IP ST-2022, SDI, SRT etc. Each signal is typically described by its location in the network (element and optionally interface), the required transmission information to set up a connection and a set of user-defined metadata, like labels.
 
@@ -20,7 +20,7 @@ For more detailed information on this application, see: [Virtual Signal Groups a
 
 ## Control Surface
 
-![Control Surface app icon](~/user-guide/Standard_Apps/MediaOps/images/cs_dm-logo.png)
+![Control Surface app icon](~/user-guide/images/mediaops_cs_dm-logo.png)
 
 The MediaOps control surfaces allow users to build their own user interfaces where they can set up connectivity between sources & destinations, configure devices and view monitoring information coming from the devices. The MediaOps installation package comes with a sample control surface out-of-the-box. It shows the sources and destinations on the system and allows users to do an instant connect or disconnect, or schedule a connection to happen at a later time.
 
@@ -30,7 +30,7 @@ For more detailed information on this application, see: [Control Surface applica
 
 ## Flow Engineering
 
-![Flow Engineering icon](~/user-guide/Standard_Apps/MediaOps/images/fe_dm-logo.png)
+![Flow Engineering icon](~/user-guide/images/mediaops_fe_dm-logo.png)
 
 Unlike the other components listed on this page, Flow Engineering is not an application that end-users interact with. It's the engine running in the background to successfully execute requests to set up flows in the network. It's responsible for three things:
 
@@ -42,7 +42,7 @@ For more detailed information on this application, see: [Flow Engineering](xref:
 
 ## Flow Monitoring
 
-![Flow Monitoring app icon](~/user-guide/Standard_Apps/MediaOps/images/fm_dm-logo.png)
+![Flow Monitoring app icon](~/user-guide/images/mediaops_fm_dm-logo.png)
 
 The goal of the Flow Monitoring app is to provide visibility on the path of all flows going through the media network. The app distinguishes between as-engineered flow paths and as-is flow paths. They both show the path of a flow over DataMiner elements, from the flow source to its destination and everything in between. The exact information shown for the as-engineered and as-is path is a different though.  
 
@@ -54,7 +54,7 @@ For more detailed information on this application, see: [Flow Monitoring applica
 
 ## Scheduling
 
-![Scheduling app icon](~/user-guide/Standard_Apps/MediaOps/images/s_dm-logo.png)
+![Scheduling app icon](~/user-guide/images/mediaops_s_dm-logo.png)
 
 The Scheduling application is a one-stop shop for scheduling and orchestrating of resources and workflows. Using a Job, users can easily schedule specific resources, request a resource for a given pool of resources, schedule an entire workflow or a hybrid of each of the options. The full lifecycle of a Job can be managed with tools created for requestors,Booking Teams on to your Operational Teams.
 
@@ -69,7 +69,7 @@ For more detailed information on this application, see: [Scheduling application]
 
 ## Workflow Designer
 
-![Workflow Designer app icon](~/user-guide/Standard_Apps/MediaOps/images/wfd_dm-logo.png)
+![Workflow Designer app icon](~/user-guide/images/mediaops_wfd_dm-logo.png)
 
 The workflow designer is an operator-level DevOps environment to create technical workflows. In the app, users can define what needs to happen when creating a connection between a source and a destination, when executing a certain job, delivering a type of service etc. This is done by describing workflows. Each workflow consists of a set of nodes and a set of connections between these nodes. These typically describe how a source signal (virtual signal group) is transported to a destination and how it gets processed in between. These workflows can then be executed ad-hoc (from a control surface) or scheduled (for example by scheduling a job in the scheduling app)
 
@@ -84,7 +84,7 @@ For more detailed information on this application, see: [Workflow Designer appli
 
 ## Cost and Billing
 
-![Cost and Billing app icon](~/user-guide/Standard_Apps/MediaOps/images/cb_dm-logo.png)
+![Cost and Billing app icon](~/user-guide/images/mediaops_cb_dm-logo.png)
 
 Cost and Billing is a robust application designed to streamline financial operations within a media environment. Its Contract module offers a comprehensive framework for managing agreements, defining validity periods, and incorporating flexible billing options. Users can apply discounts during billing calculations and navigate intricate details like Speed Order Fees, providing choices between fixed or incremental charges based on the job's booking confirmation. The app's versatility extends to cancellation fees, allowing users to opt for fixed or incremental charges. Billing flexibility is further enhanced by the app's capability to facilitate billing based on workflows, resources, or a combination of both. Additionally, the app enables precise customization through default and specific rate card assignments to workflows, resources, and resource pools.
 
@@ -94,7 +94,7 @@ For more detailed information on this application, see: [Cost and Billing applic
 
 ## People and Organizations
 
-![People and Organizations app icon](~/user-guide/Standard_Apps/MediaOps/images/po_dm-logo.png)
+![People and Organizations app icon](~/user-guide/images/mediaops_po_dm-logo.png)
 
 Upgrade your business operations with our People and Organizations app! Simplify personnel management by effortlessly creating, editing, and tracking records for individuals and teams. With features like team booking, optimizing personnel allocation for the right job has never been easier. Moreover, streamline organization management by overseeing categories, contracts, billing contacts, and company affiliation — all from a single intuitive interface. Try our solution today and witness the difference it can make in your media operations.
 
@@ -102,7 +102,7 @@ For more detailed information on this application, see: [People and Organization
 
 ## Resource Studio
 
-![Resource Studio app icon](~/user-guide/Standard_Apps/MediaOps/images/rs_dm-logo.png)
+![Resource Studio app icon](~/user-guide/images/mediaops_rs_dm-logo.png)
 
 The Resource Studio app serves as a comprehensive platform for creating, managing, and optimizing resource utilization. Its key features include the ability to create diverse resources, ranging from network inventory to services and other limited availability items such rooms, people, vehicles etc. Users can organize these resources into pools, simplifying workflow and job resource selection. Capabilities and capacities can be assigned to resources, facilitating precise resource allocation based on specific job requirements. Additionally, users can store supplementary information as properties, enhancing the resource management process. Utilization metrics provided by the app offer valuable insights, enabling users to optimize resource deployment and maximize operational efficiency.
 

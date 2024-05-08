@@ -10,7 +10,7 @@ Unlike the other components listed on this page, Flow Engineering is not an appl
 * Flow execution: when the flow path has been calculated, all elements in the path need to be informed of the request to set up the flow. This is done using a standardized message sent to the elements. The connector is then responsible for making sure that the flow is correctly set up on its underlying product.
 * Flow documentation: the result of the path calculation is also stored, so it can be used for monitoring and other purposes.
 
-![screenshot](~/user-guide/Standard_Apps/MediaOps/images/fe_overview.png)
+![screenshot](~/user-guide/images/mediaops_fe_overview.png)
 
 ## Flow path calculation
 

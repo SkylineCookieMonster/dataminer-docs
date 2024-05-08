@@ -207,8 +207,6 @@ items:
   - name: MediaOps
     topicUid: MediaOpsGeneral
     items:
-      - name: Package
-        topicUid: mediaops_package
       - name: Supported Connectors
         topicUid: mediaops_connectors
       - name: Apps

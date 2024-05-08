@@ -4,7 +4,7 @@ uid: flow_monitoring_app
 
 # Flow Monitoring
 
-![Screenshot of the flow monitoring app](~/user-guide/Standard_Apps/MediaOps/images/fm_overview.png)
+![Screenshot of the flow monitoring app](~/user-guide/images/mediaops_fm_overview.png)
 
 The flow monitoring app can be used by engineers and operators to visualize flow paths throughout the network, for troubleshooting or other purposes. The application tracks two paths for every flow:
 

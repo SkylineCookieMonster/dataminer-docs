@@ -13,7 +13,7 @@ The Virtual Signal Groups app is used by media engineers to manage sources and d
 * Organize virtual signal groups into area's & domains. This allows operators to more easily navigate their control surfaces and find the relevant sources & destinations for their workflows.
 * Configure the desired behavior of the system when connecting sources & destinations. This is done by defining virtual signal group types and specifying a workflow to be executed when connecting a source of a certain type to a destination of a certain type.
 
-![screenshot](~/user-guide/Standard_Apps/MediaOps/images/vsg_overview.png)
+![screenshot](~/user-guide/images/mediaops_vsg_overview.png)
 *The 'vSGroups' page of the app.*
 
 ## Flow senders & receivers

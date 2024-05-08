@@ -12,7 +12,7 @@ The workflow designer takes a central place in the dataminer.MediaOps solution. 
 * Describe what should happen when workflow gets executed.
 * Specify monitoring settings
 
-![Screenshot of the workflow designer app](~/user-guide/Standard_Apps/MediaOps/images/wfd_overview.png)
+![Screenshot of the workflow designer app](~/user-guide/images/mediaops_wfd_overview.png)
 
 ## Adding nodes to a workflow
 
